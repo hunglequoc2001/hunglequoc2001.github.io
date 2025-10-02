@@ -1,0 +1,10 @@
+@import url("https://cdn.jsdelivr.net/npm/@xz/fonts@1/serve/jetbrains-mono.min.css");
+
+body {
+  font-family: Georgia, sans-serif;
+  font-size: 18px;
+}
+code {
+  font-family: Georgia, sans-serif;
+  font-size: 18px;
+}
