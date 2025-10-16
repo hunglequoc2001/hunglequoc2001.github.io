@@ -6,7 +6,13 @@ body {
 }
 
 /* header and footer areas */
-.menu { padding: 0; }
+.menu {
+  padding: 0;
+  position: sticky;
+  top: 0;
+  background: white;
+  z-index: 100;
+}
 .menu li { display: inline-block; }
 .article-meta, .menu a {
   text-decoration: none;
